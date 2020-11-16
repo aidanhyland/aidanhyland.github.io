@@ -1777,14 +1777,15 @@ body.is-preload #footer {
     margin: auto;
 }
 
-@media screen and (max-width: 400px) {
+
+/* @media screen and (max-width: 1025px) {
     .image-istqb {
         width: 250px !important;
         margin: auto;
     }
-}
+} */
 
-@media screen and (min-width: 400px) {
+@media screen and (max-width: 736px) {
     .image-istqb {
         width: 300px !important;
     }
