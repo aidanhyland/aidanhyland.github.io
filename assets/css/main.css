@@ -1776,3 +1776,7 @@ body.is-preload #footer {
     width: 450px !important;
     margin: auto;
 }
+
+.article {
+    padding: 1%;
+}
