@@ -1771,3 +1771,8 @@ body.is-preload #footer {
     border-bottom-right-radius: 50% 50% !important;
     border-bottom-left-radius: 50% 50% !important;
 }
+
+.image-istqb {
+    width: 450px !important;
+    margin: auto;
+}
